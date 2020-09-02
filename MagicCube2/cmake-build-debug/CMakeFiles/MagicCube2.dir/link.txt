@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MagicCube2.dir/main.cpp.o CMakeFiles/MagicCube2.dir/Cube/Cube.cpp.o CMakeFiles/MagicCube2.dir/Cube3.cpp.o  -o MagicCube2 
